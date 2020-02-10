@@ -1,8 +1,8 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *SimpleTweet*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [X] User can **sign in to Twitter** using OAuth login
 - [X]	User can **view tweets from their home timeline**
-  - [X] User is displayed the username, name, and body for each tweet
+- [X] User is displayed the username, name, and body for each tweet
 - [X] User can refresh tweets timeline by pulling down to refresh
 - [X] User can view more tweets as they scroll with infinite pagination
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/src/main/res/values-sw720dp-land/SimpleTweet.gif' />
 
-GIF created with Peek
+GIF created with Peek Linux
 
 ## Open-source libraries used
 
@@ -29,7 +29,7 @@ GIF created with Peek
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Concepta Njolima]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

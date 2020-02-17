@@ -25,8 +25,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/src/main/res/values-sw720dp-land/SimpleTweet.gif' alt='Video Walkthrough 1'/>
-<img src=https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/simpleTweet2.gif' alt='Video Walkthrough 2'/>
+<img src='https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/src/main/res/values-sw720dp-land/SimpleTweet.gif' />
+<img src=https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/simpleTweet2.gif' />
 
 GIF created with Peek Linux
 

@@ -24,7 +24,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/SimpleTweet.gif' title='SimpleTweet Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <img src='https://github.com/ConceptaNjolima/SimpleTweet/blob/master/app/simpleTweet2.gif' title='SimpleTweet Video Walkthrough 1' width='' alt='Video Walkthrough' />
 
 GIF created with Peek Linux
